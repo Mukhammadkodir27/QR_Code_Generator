@@ -48,3 +48,6 @@ Feel free to reach out for more information:
 Mukhammadkodir Abdusalomov - mukhammadkodirabdusalomov27@gmail.com
 
 Project Link: https://github.com/mukhammadkodir27/QR_Code_Generator
+
+![image](https://github.com/Mukhammadkodir27/QR_Code_Generator/assets/99057791/ded9a95a-6b10-42f4-9dfe-9a4e1f95fc41)
+
